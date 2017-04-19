@@ -37,21 +37,29 @@ audio.pause();
 
 var CDN_URL = '';
 var load_img = [];
-load_img.push(CDN_URL + 'img/letter_top1.png');
-load_img.push(CDN_URL + 'img/letter_bottom.png');
-load_img.push(CDN_URL + 'img/letter_text.png');
-load_img.push(CDN_URL + 'img/btn_text.png');
-load_img.push(CDN_URL + 'img/btn.png');
-load_img.push(CDN_URL + 'img/clickit.png');
-load_img.push(CDN_URL + 'music.mp3');
-load_img.push(CDN_URL + 'img/letter.png');
-load_img.push(CDN_URL + 'img/letter_post1993.png');
-load_img.push(CDN_URL + 'img/postmark_1993.png');
-load_img.push(CDN_URL + 'img/page0_text1.png');
-load_img.push(CDN_URL + 'img/page0_text2.png');
-load_img.push(CDN_URL + 'img/page0_text3.png');
-load_img.push(CDN_URL + 'img/page0_text4.png');
+load_img.push(CDN_URL + 'img/page1_envelope.png');
+load_img.push(CDN_URL + 'img/time.png');
+load_img.push(CDN_URL + 'img/page2_pho2.png');
 load_img.push(CDN_URL + 'img/page1_background.png');
+load_img.push(CDN_URL + 'img/page2_pho.png');
+load_img.push(CDN_URL + 'img/page1_pho2.png');
+load_img.push(CDN_URL + 'music.mp3');
+load_img.push(CDN_URL + 'img/page1_pho.png');
+load_img.push(CDN_URL + 'img/page1_pho1.png');
+load_img.push(CDN_URL + 'img/page4_pho2.png');
+load_img.push(CDN_URL + 'img/page2_pho3.png');
+load_img.push(CDN_URL + 'img/letter_top1.png');
+load_img.push(CDN_URL + 'img/page2_pho5.png');
+load_img.push(CDN_URL + 'img/letter_bottom.png');
+load_img.push(CDN_URL + 'img/letter.png');
+load_img.push(CDN_URL + 'img/page2_pho4.png');
+load_img.push(CDN_URL + 'img/page3_pho2.png');
+load_img.push(CDN_URL + 'img/page1_imgbox.png');
+load_img.push(CDN_URL + 'img/letter_background.png');
+load_img.push(CDN_URL + 'img/letter_top2.png');
+load_img.push(CDN_URL + 'img/btn.png');
+load_img.push(CDN_URL + 'img/page1_imgcover.png');
+load_img.push(CDN_URL + 'img/page5_title.png');
 
 
 
